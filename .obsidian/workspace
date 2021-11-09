@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "c0a8a0762dfbdc48",
+    "id": "77cbd09271ceb2f8",
     "type": "split",
     "children": [
       {
-        "id": "0301f00017eb928b",
+        "id": "a115c1f5d6f6e5a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,78 +18,65 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f761293b4d988a84",
-    "type": "split",
+    "id": "64ae9d81a5e99d70",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d97651bbbf78bc1a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "257c8eec86bb83fd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a98a5de2cd11aef8",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "bb2eefdc11cb2b35",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "72c10f14b3901879",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "707357672001d018",
-    "type": "split",
+    "id": "9f1a15cf7afa9d43",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b9b1add79a01943a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aae9770c217fdde2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "On mY iPad.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "680398100a45b739",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "On mY iPad.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "0301f00017eb928b",
+  "active": "a115c1f5d6f6e5a6",
   "lastOpenFiles": [
     "On mY iPad.md",
-    "test.md",
-    "README.md"
+    "Untitled.md",
+    "What about a new file.md",
+    "README.md",
+    "test.md"
   ]
 }
