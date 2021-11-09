@@ -5,3 +5,10 @@ Make a mistake and you're stuffed.
 Oh yeah baby
 
 [[On mY iPad]]
+
+## Changes made on the Mac
+
+* weird stuff
+* list or not
+* looks like a list
+
