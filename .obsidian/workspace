@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Use Pull.md",
+            "file": "Software Notes/Obsidian Notes.md",
             "mode": "source"
           }
         }
@@ -45,7 +45,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "9f1a15cf7afa9d43",
@@ -57,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Use Pull.md",
+            "file": "Software Notes/Obsidian Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -67,17 +68,29 @@
             "unlinkedCollapsed": true
           }
         }
+      },
+      {
+        "id": "d0fd0c9e21927bc8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
   },
   "active": "a115c1f5d6f6e5a6",
   "lastOpenFiles": [
+    "Obsidian Notes.md",
+    "Journal/2021-11-09 Obsidian Day.md",
     "Untitled.md",
-    "image.jpg",
-    "On mY iPad.md",
+    "Templates/Daily Content.md",
     "What about a new file.md",
+    "test.md",
     "README.md",
-    "test.md"
+    "Journal/2021-11-09.md",
+    "Weird Stuff.md",
+    "On mY iPad.md"
   ]
 }
