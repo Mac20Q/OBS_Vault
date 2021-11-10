@@ -1,0 +1,1 @@
+Could be a lot easier to do this without the messing with GIT.
