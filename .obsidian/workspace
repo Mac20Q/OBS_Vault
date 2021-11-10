@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "77cbd09271ceb2f8",
+    "id": "c0a8a0762dfbdc48",
     "type": "split",
     "children": [
       {
-        "id": "6497a1ec3674e6d0",
+        "id": "ea84fda4d71fdfda",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,47 +18,45 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "64ae9d81a5e99d70",
-    "type": "mobile-drawer",
+    "id": "f761293b4d988a84",
+    "type": "split",
     "children": [
       {
-        "id": "bb2eefdc11cb2b35",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "72c10f14b3901879",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "tag:#tvseries",
-            "matchingCase": true,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d97651bbbf78bc1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "257c8eec86bb83fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a98a5de2cd11aef8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "f0f51276dd6233d0",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1,
-    "pinned": true
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9f1a15cf7afa9d43",
-    "type": "mobile-drawer",
+    "id": "707357672001d018",
+    "type": "split",
     "children": [
       {
         "id": "680398100a45b739",
@@ -93,21 +91,23 @@
           "state": {
             "file": "Journal/2021-11-09.md"
           }
-        }
+        ]
       }
     ],
-    "currentTab": 1,
-    "pinned": true
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6497a1ec3674e6d0",
+  "active": "ea84fda4d71fdfda",
   "lastOpenFiles": [
     "Journal/2021-11-09.md",
     "Journal/2021-W45.md",
     "Journal/2021-11-10.md",
-    "Journal/2021-11-09 Obsidian Day.md",
-    "Journal/2021-11-09 Chicago PD Series 1.md",
-    "Software Notes/Obsidian Notes.md",
-    "Test/What is a Fast Forward.md",
+    "Journal/2021-W45.md",
+    "What is a Fast Forward.md",
+    "Test/Weird Stuff 1.md",
+    "Test/test 1.md",
+    "On mY iPad-09-Nov-2021.md",
     "Test/On mY iPad 1.md",
     "Obsidian Notes.md",
     "Untitled.md"
