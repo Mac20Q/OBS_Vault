@@ -4,7 +4,7 @@ Make a mistake and you're stuffed.
 
 Oh yeah baby
 
-[[On mY iPad]]
+[[On mY iPad 1]]
 
 ## Changes made on the Mac
 

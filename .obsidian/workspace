@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Notes/Obsidian Notes.md",
+            "file": "Test/What is a Fast Forward.md",
             "mode": "source"
           }
         }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Software Notes/Obsidian Notes.md",
+            "file": "Test/What is a Fast Forward.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -82,15 +82,15 @@
   },
   "active": "a115c1f5d6f6e5a6",
   "lastOpenFiles": [
+    "Test/What is a Fast Forward.md",
+    "Test/On mY iPad 1.md",
+    "Software Notes/Obsidian Notes.md",
     "Obsidian Notes.md",
     "Journal/2021-11-09 Obsidian Day.md",
     "Untitled.md",
     "Templates/Daily Content.md",
     "What about a new file.md",
     "test.md",
-    "README.md",
-    "Journal/2021-11-09.md",
-    "Weird Stuff.md",
-    "On mY iPad.md"
+    "README.md"
   ]
 }
