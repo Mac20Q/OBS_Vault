@@ -4,12 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0301f00017eb928b",
+        "id": "ea84fda4d71fdfda",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< refs/remotes/origin/main
             "file": "What is a Fast Forward.md",
+=======
+            "file": "Journal/2021-11-10.md",
+>>>>>>> More messing
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< refs/remotes/origin/main
                 "file": "What is a Fast Forward.md",
+=======
+                "file": "Journal/2021-11-10.md",
+>>>>>>> More messing
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +86,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "95691c340a10d1b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,8 +102,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0301f00017eb928b",
+  "active": "ea84fda4d71fdfda",
   "lastOpenFiles": [
+<<<<<<< refs/remotes/origin/main
     "Test/What is a Fast Forward.md",
     "Test/On mY iPad 1.md",
     "Software Notes/Obsidian Notes.md",
@@ -98,5 +115,17 @@
     "What about a new file.md",
     "test.md",
     "README.md"
+=======
+    "Journal/2021-11-10.md",
+    "Journal/2021-W45.md",
+    "What is a Fast Forward.md",
+    "Test/Weird Stuff 1.md",
+    "Test/test 1.md",
+    "On mY iPad-09-Nov-2021.md",
+    "Test/On mY iPad 1.md",
+    "Weird Stuff-09-Nov-2021.md",
+    "What about a new file.md",
+    "Seems to be working now.md"
+>>>>>>> More messing
   ]
 }

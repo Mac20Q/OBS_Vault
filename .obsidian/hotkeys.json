@@ -1,28 +1,4 @@
 {
-  "editor:insert-tag": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "M"
-    }
-  ],
-  "calendar:show-calendar-view": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
   "periodic-notes:open-daily-note": [
     {
       "modifiers": [
@@ -38,7 +14,7 @@
         "Alt",
         "Ctrl"
       ],
-      "key": "T"
+      "key": "N"
     }
   ],
   "periodic-notes:prev-daily-note": [
@@ -48,6 +24,15 @@
         "Ctrl"
       ],
       "key": "P"
+    }
+  ],
+  "lumberjack-obsidian:lumberjack-log": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "L"
     }
   ]
 }
