@@ -1,6 +1,6 @@
 Hello World
 
-[[README]]
+[[README 1]]
 
 ## Have this in my Obsidian iMac 
 
@@ -15,7 +15,7 @@ How did some files get added and have extra stuff added to the titles?
 
 Hello World
 
-[[README]]
+[[README 1]]
 
 ## Have this in my Obsidian iMac 
 
