@@ -1,4 +1,4 @@
-## [[2021-11-09 Chicago PD Series 1]]
+## [[2021-11-09]]
 
 ## Bought a Spanner and drill bits
 These things have to be done sometimes. I needed the right tool for taking off the back wheel
