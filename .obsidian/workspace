@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2021-W45.md",
+            "file": "Journal/2021-11-09.md",
             "mode": "source"
           }
         }
@@ -66,7 +66,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/2021-W45.md",
+            "file": "Journal/2021-11-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/2021-W45.md"
+            "file": "Journal/2021-11-09.md"
           }
         }
       }
@@ -101,6 +101,7 @@
   },
   "active": "6497a1ec3674e6d0",
   "lastOpenFiles": [
+    "Journal/2021-11-09.md",
     "Journal/2021-W45.md",
     "Journal/2021-11-10.md",
     "Journal/2021-11-09 Obsidian Day.md",
@@ -109,7 +110,6 @@
     "Test/What is a Fast Forward.md",
     "Test/On mY iPad 1.md",
     "Obsidian Notes.md",
-    "Untitled.md",
-    "Templates/Daily Content.md"
+    "Untitled.md"
   ]
 }
