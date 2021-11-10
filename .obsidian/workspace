@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2021-11-09.md",
+            "file": "Have to compare with Using iCloud.md",
             "mode": "source"
           }
         }
@@ -59,37 +59,33 @@
     "type": "split",
     "children": [
       {
-        "id": "680398100a45b739",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Journal/2021-11-09.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "d0fd0c9e21927bc8",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "1801bc9bd85f5d94",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Journal/2021-11-09.md"
+        "id": "b9b1add79a01943a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae9770c217fdde2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Have to compare with Using iCloud.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95691c340a10d1b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -100,8 +96,8 @@
   },
   "active": "ea84fda4d71fdfda",
   "lastOpenFiles": [
+    "Have to compare with Using iCloud.md",
     "Journal/2021-11-09.md",
-    "Journal/2021-W45.md",
     "Journal/2021-11-10.md",
     "Journal/2021-W45.md",
     "What is a Fast Forward.md",
@@ -109,7 +105,6 @@
     "Test/test 1.md",
     "On mY iPad-09-Nov-2021.md",
     "Test/On mY iPad 1.md",
-    "Obsidian Notes.md",
-    "Untitled.md"
+    "Weird Stuff-09-Nov-2021.md"
   ]
 }
